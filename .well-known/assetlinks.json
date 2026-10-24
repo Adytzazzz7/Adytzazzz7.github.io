@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.adytzazzz7.scirun5k",
+      "package_name": "com.adytzazzz7.scirun5k.preview",
       "sha256_cert_fingerprints": [
         "DF:D7:2F:4F:CF:8B:D4:E0:79:64:05:D0:2D:CB:22:BB:98:26:06:17:9F:43:79:49:B3:38:D2:5D:F0:E8:B3:27"
       ]
